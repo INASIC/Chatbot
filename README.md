@@ -1,4 +1,4 @@
-# Abstract
+## Read Me
 
 This project was heavily inspired by the series of [YouTube videos](https://www.youtube.com/watch?v=dvOnYLDg8_Y&t=20s) by [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ). 
 
